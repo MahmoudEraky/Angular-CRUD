@@ -10,4 +10,4 @@ export const HEROES: Hero[] = [
   { id: 18, name: 'Dr. IQ', vorname: '75', email: 'iq75@web.de' },
   { id: 19, name: 'Magma', vorname: 'Vereist', email: 'V.magma@gmail.com' },
   { id: 20, name: 'Tornado', vorname: 'Brise', email: 'br.tor@yahoo.de' }
-];
+];//added hero information

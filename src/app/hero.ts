@@ -3,4 +3,4 @@ export interface Hero {
   name: string;
   vorname: string;
   email: string;
-}
+}//modified the Hero interface to add the vorname and email params
